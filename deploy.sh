@@ -1,6 +1,6 @@
 # *nix only
-export RG="reddog-michelin"
-export LOCATION="eastus"
+export RG="reddog-michelin-new"
+export LOCATION="westus"
 export SUB_ID="ac9decd5-c5b4-40dd-b637-1b0294837f8f"
 
 # Follow Azure CLI prompts to authenticate to your subscription of choice
